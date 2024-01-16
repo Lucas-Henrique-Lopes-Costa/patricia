@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Arquivo de Ensaio - Patricia Chimiti Arquitetura</title>
-	<atom:link href="/category/ensaio/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/ensaio/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>🏗 &#124; Arquitetura especializada #ligthsteelframe #modular 💡 &#124; Arquitetura inteligente com soluções diferentes 📍 &#124; Florianópolis &#124; Santa Catarina</description>
 	<lastBuildDate>Sat, 11 Nov 2023 00:14:31 +0000</lastBuildDate>
 	<language>pt-PT</language>
@@ -21,52 +21,52 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/cropped-05-removebg-preview-150x150.png</url>
+	<url>./../../../wp-content/uploads/2023/12/cropped-05-removebg-preview-150x150.png</url>
 	<title>Arquivo de Ensaio - Patricia Chimiti Arquitetura</title>
-	<link>/category/ensaio/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Florença</title>
-		<link>/florenca/</link>
-					<comments>/florenca/#respond</comments>
+		<link>./../../../florenca/index.html</link>
+					<comments>./../../../florenca/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2023 16:06:45 +0000</pubDate>
 				<category><![CDATA[Ensaio]]></category>
 		<guid isPermaLink="false">https://lp.ensaionaitalia.com/?p=329</guid>
 
-					<description><![CDATA[<p>O conteúdo <a href="/florenca/">Florença</a> aparece primeiro em <a href="/">Patricia Chimiti Arquitetura</a>.</p>
+					<description><![CDATA[<p>O conteúdo <a href="./../../../florenca/index.html">Florença</a> aparece primeiro em <a href="./../../../index.html">Patricia Chimiti Arquitetura</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-20-scaled.jpg"><img decoding="async" data-id="240" src="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-20-1024x683.jpg" alt="" class="wp-image-240"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-20-scaled.jpg"><img decoding="async" data-id="240" src="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-20-1024x683.jpg" alt="" class="wp-image-240"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-26-scaled.jpg"><img decoding="async" data-id="242" src="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-26-683x1024.jpg" alt="" class="wp-image-242"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-26-scaled.jpg"><img decoding="async" data-id="242" src="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-26-683x1024.jpg" alt="" class="wp-image-242"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/Kelly-e-Rafael-198-scaled.jpg"><img decoding="async" data-id="243" src="/wp-content/uploads/2023/11/Kelly-e-Rafael-198-1024x683.jpg" alt="" class="wp-image-243"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/Kelly-e-Rafael-198-scaled.jpg"><img decoding="async" data-id="243" src="./../../../wp-content/uploads/2023/11/Kelly-e-Rafael-198-1024x683.jpg" alt="" class="wp-image-243"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-27-scaled.jpg"><img decoding="async" data-id="244" src="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-27-683x1024.jpg" alt="" class="wp-image-244"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-27-scaled.jpg"><img decoding="async" data-id="244" src="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-27-683x1024.jpg" alt="" class="wp-image-244"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-36.jpg"><img decoding="async" data-id="246" src="/wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-36.jpg" alt="" class="wp-image-246"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-36.jpg"><img decoding="async" data-id="246" src="./../../../wp-content/uploads/2023/11/03.01-Dalila-e-Carlos-36.jpg" alt="" class="wp-image-246"/></a></figure>
 
 
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2023/11/Kelly-e-Rafael-166-scaled.jpg"><img decoding="async" data-id="245" src="/wp-content/uploads/2023/11/Kelly-e-Rafael-166-1024x683.jpg" alt="" class="wp-image-245"/></a></figure>
+<figure class="wp-block-image size-large"><a href="./../../../wp-content/uploads/2023/11/Kelly-e-Rafael-166-scaled.jpg"><img decoding="async" data-id="245" src="./../../../wp-content/uploads/2023/11/Kelly-e-Rafael-166-1024x683.jpg" alt="" class="wp-image-245"/></a></figure>
 </figure>
-<p>O conteúdo <a href="/florenca/">Florença</a> aparece primeiro em <a href="/">Patricia Chimiti Arquitetura</a>.</p>
+<p>O conteúdo <a href="./../../../florenca/index.html">Florença</a> aparece primeiro em <a href="./../../../index.html">Patricia Chimiti Arquitetura</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/florenca/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../florenca/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

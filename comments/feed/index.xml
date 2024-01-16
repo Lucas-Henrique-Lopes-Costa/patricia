@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentários para Patricia Chimiti Arquitetura	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>🏗 &#124; Arquitetura especializada #ligthsteelframe #modular 💡 &#124; Arquitetura inteligente com soluções diferentes 📍 &#124; Florianópolis &#124; Santa Catarina</description>
-	<lastBuildDate>Tue, 12 Dec 2023 03:26:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Jan 2024 02:27:13 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
